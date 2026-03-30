@@ -12,7 +12,7 @@ We work at the intersection of **machine learning, deep learning, generative AI,
 
 Our mission is to advance artificial intelligence through **research, experimentation, and real-world applications** that enhance human capabilities.
 
-🌐 Website: https://tatvamindlabs.vercel.app  
+🌐 Website: [TatvaMind Intelligence Lab](https://www.tatvamindintelligencelab.com/)
 
 ---
 
